@@ -1,6 +1,6 @@
 
-<h1> Change Log</h1>
-<h2>1.0.1 (August 2016)</h2>
+#Change Log
+##1.0.1 (August 2016)
 * A timezone to Reports and Stats
 * Another change.
 

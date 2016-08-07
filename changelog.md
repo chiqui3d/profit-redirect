@@ -1,5 +1,5 @@
 
 #Change Log
 ##1.0.1 (August 2016)
-* A timezone to Reports and Stats
+* Added timezone to Reports and Stats
 * Another change.

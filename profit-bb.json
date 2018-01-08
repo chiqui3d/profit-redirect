@@ -1,7 +1,7 @@
 {
 	"name": "Profit Back Button",
 	"version": "1.1.0",
-	"download_url": "http://example.com/updates/example-plugin.zip",
+	"download_url": "",
 	"homepage": "https://www.profitwp.net/",
 	"requires": "4.5",
 	"tested": "4.8",
@@ -13,7 +13,7 @@
 		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version x.y.z details'.</p>"	},
 
 	"banners": {
-		"low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
-		"high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+		"low": "",
+		"high": ""
 	}
 }
